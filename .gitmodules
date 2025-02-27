@@ -1,0 +1,6 @@
+[submodule "FrontEnd"]
+	path = FrontEnd
+	url = https://github.com/Huyenmy3082020/front_end_NMCNPM_final.git
+[submodule "BackEnd"]
+	path = BackEnd
+	url = https://github.com/Huyenmy3082020/Backend_NMCNPM.git
