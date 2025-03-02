@@ -4,3 +4,6 @@
 [submodule "BackEnd"]
 	path = BackEnd
 	url = https://github.com/Huyenmy3082020/Backend_NMCNPM.git
+[submodule "MessageQueue"]
+	path = MessageQueue
+	url = https://github.com/Huyenmy3082020/sys_message_queue.git
